@@ -38,11 +38,11 @@ export default function Header(props) {
                    <StackItem>Home</StackItem>
                    <StackItem>About</StackItem>
                    <StackItem>Team</StackItem>
-                   <StackItem>Sovereign Nation</StackItem>
+                   
                </Stack>
             </Stack>  
                 
-            <Heading m={["2","24"]} w="100%" color="white" textAlign="center">Innovate. Inspire. Ignite.</Heading>     
+            <Heading m={["2","24"]} w="100%" color="white" textAlign="center">Project description</Heading>     
             </Box>  
         </div>
         

@@ -4,7 +4,7 @@ export default function Footer() {
         <Box height="200px;" p="3" bgGradient="linear(to bottom, #253140, #111)">
             <Stack  height={["auto", "100%"]} justifyContent="space-between" alignItems={["center","flex-start"]} color="white" direction={["column", "row", "row"]}>
                 <StackItem >
-                    <Text fontSize="sm">Sovereign Health & Wealth © 2021</Text>
+                    <Text fontSize="sm">Project name</Text>
                  </StackItem>
                 <StackItem >
                     <Stack fontSize="smaller" direction="row">
